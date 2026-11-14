@@ -60,6 +60,7 @@ Cada app Nodalia lleva el retrato de una figura histórica en blanco y negro sob
 
 | Aplicación | Archivo | Alias |
 | --- | --- | --- |
+| Ánima | `dev.danielmiguelt.Anima.svg` | `anima` |
 | Brújula | `org.gnome.Epiphany.svg` | `brujula` |
 | Celdas | `dev.danielmiguelt.Celdas.svg` | `celdas` |
 | Forja | `dev.danielmiguelt.Forja.svg` | `forja` |
@@ -75,6 +76,8 @@ Cada app Nodalia lleva el retrato de una figura histórica en blanco y negro sob
 | Torno | `dev.danielmiguelt.Torno.svg` | `torno` |
 | Vinilo | `dev.danielmiguelt.Vinilo.svg` | `vinilo` |
 | Vortia | `vortia.svg` | |
+
+Ánima no lleva retrato: su icono es vectorial (el arco de una pelota por tres fotogramas clave, con papel cebolla e interpolación en la línea de tiempo) y ya viene dibujado en la retícula de Colloid desde su repositorio (`assets/app-icon/hicolor/scalable/apps/dev.danielmiguelt.Anima.svg` en getnodalia/anima, generado por `scripts/icons.sh`), así que se copia tal cual.
 
 Para regenerar uno cuando cambie el retrato de la app:
 
