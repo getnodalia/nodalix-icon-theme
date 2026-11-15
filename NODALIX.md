@@ -60,6 +60,7 @@ Cada app Nodalia lleva el retrato de una figura histórica en blanco y negro sob
 
 | Aplicación | Archivo | Alias |
 | --- | --- | --- |
+| Ágora | `dev.danielmiguelt.Agora.svg` | `agora` |
 | Ánima | `dev.danielmiguelt.Anima.svg` | `anima` |
 | Brújula | `org.gnome.Epiphany.svg` | `brujula` |
 | Celdas | `dev.danielmiguelt.Celdas.svg` | `celdas` |
@@ -78,7 +79,7 @@ Cada app Nodalia lleva el retrato de una figura histórica en blanco y negro sob
 | Vinilo | `dev.danielmiguelt.Vinilo.svg` | `vinilo` |
 | Vortia | `vortia.svg` | |
 
-Ánima lleva el retrato de Émile Reynaud, inventor del Théâtre Optique, y Trama el de Joseph Marie Jacquard, sacado del retrato tejido en seda de 1839 en un telar Jacquard. Los dos vienen ya en la retícula de Colloid desde su repositorio (`assets/app-icon/hicolor/scalable/apps/dev.danielmiguelt.Anima.svg` en getnodalia/anima y `assets/app-icon/trama-linux.svg` en getnodalia/trama), así que se copian tal cual.
+Ánima lleva el retrato de Émile Reynaud, inventor del Théâtre Optique, y Trama el de Joseph Marie Jacquard, sacado del retrato tejido en seda de 1839 en un telar Jacquard. Los dos vienen ya en la retícula de Colloid desde su repositorio (`assets/app-icon/hicolor/scalable/apps/dev.danielmiguelt.Anima.svg` en getnodalia/anima y `assets/app-icon/trama-linux.svg` en getnodalia/trama), así que se copian tal cual. Ágora lleva el retrato de Sócrates, que conversaba en el ágora de Atenas, generado con `tools/nodalia-app-icon.py` desde `assets/icons/hicolor/1024x1024/apps/dev.danielmiguelt.Agora.png` de getnodalia/agora.
 
 Para regenerar uno cuando cambie el retrato de la app:
 
