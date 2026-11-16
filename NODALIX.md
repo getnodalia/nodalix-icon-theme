@@ -60,6 +60,8 @@ Cada app Nodalia lleva el retrato de una figura histórica en blanco y negro sob
 
 | Aplicación | Archivo | Alias |
 | --- | --- | --- |
+| Ágora | `dev.danielmiguelt.Agora.svg` | `agora` |
+| Ánima | `dev.danielmiguelt.Anima.svg` | `anima` |
 | Brújula | `org.gnome.Epiphany.svg` | `brujula` |
 | Celdas | `dev.danielmiguelt.Celdas.svg` | `celdas` |
 | Forja | `dev.danielmiguelt.Forja.svg` | `forja` |
@@ -73,8 +75,11 @@ Cada app Nodalia lleva el retrato de una figura histórica en blanco y negro sob
 | Pulso | `dev.danielmiguelt.Pulso.svg` | `pulso` |
 | Toma | `dev.danielmiguelt.Toma.svg` | `toma` |
 | Torno | `dev.danielmiguelt.Torno.svg` | `torno` |
+| Trama | `dev.danielmiguelt.Trama.svg` | `trama` |
 | Vinilo | `dev.danielmiguelt.Vinilo.svg` | `vinilo` |
 | Vortia | `vortia.svg` | |
+
+Ánima lleva el retrato de Émile Cohl, autor de *Fantasmagorie* (1908), el primer dibujo animado, y Trama el de Joseph Marie Jacquard, sacado de un grabado de 1878. Los dos vienen ya en la retícula de Colloid desde su repositorio (`assets/app-icon/hicolor/scalable/apps/dev.danielmiguelt.Anima.svg` en getnodalia/anima y `assets/app-icon/trama-linux.svg` en getnodalia/trama), así que se copian tal cual. Ágora lleva el retrato de Sócrates, que conversaba en el ágora de Atenas, generado con `tools/nodalia-app-icon.py` desde `assets/icons/hicolor/1024x1024/apps/dev.danielmiguelt.Agora.png` de getnodalia/agora.
 
 Para regenerar uno cuando cambie el retrato de la app:
 

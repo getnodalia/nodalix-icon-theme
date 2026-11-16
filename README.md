@@ -11,7 +11,7 @@ short-name aliases live in `links/apps/scalable`. Add a new SVG using its deskto
 application ID and rerun the installer to include it in all theme variants.
 
 The Nodalia apps (Brújula, Celdas, Forja, Lámina, Letra, Lienzo, Luz, Papel,
-Pliego, Pluma, Pulso, Toma, Torno, Vinilo and Vortia) are included, fitted to
+Pliego, Pluma, Pulso, Toma, Torno, Trama, Vinilo and Vortia) are included, fitted to
 Colloid's tile by `tools/nodalia-app-icon.py` (see `NODALIX.md`), as is the
 Craft, ArtCraft Launcher, SolidCraft, Audacity 4 Portable, LACT and The
 Witcher 3 artwork. The Nodalia apps are separate from the Craft apps and keep
